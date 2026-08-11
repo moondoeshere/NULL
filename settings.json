@@ -2,13 +2,13 @@
   "name": "NullBot",
   "bot-account": {
     "username": "NullServer",
-    "password": "",
+    "password": "Null",
     "type": "offline"
   },
   "server": {
     "ip": "null-HDFU.aternos.me",
     "port": 32585,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
