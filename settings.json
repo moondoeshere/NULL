@@ -1,7 +1,7 @@
 {
   "name": "NullBot",
   "bot-account": {
-    "username": "Null Server",
+    "username": "NullServer",
     "password": "",
     "type": "offline"
   },
