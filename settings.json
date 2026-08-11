@@ -1,7 +1,7 @@
 {
   "name": "Null bot",
   "bot-account": {
-    "username": "NULLSERVER",
+    "username": "Null Server",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "NullNetworkLol"
     },
     "anti-afk": {
       "enabled": true,
